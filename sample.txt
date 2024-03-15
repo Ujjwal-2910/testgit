@@ -1,2 +1,3 @@
 This is a sample txt file
 New line added
+Added another line
